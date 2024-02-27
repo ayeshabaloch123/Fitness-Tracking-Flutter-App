@@ -83,7 +83,7 @@ class _AddWorkoutScreenState extends State<AddWorkoutScreen> {
                   _type = value!;
                 });
               },
-              items: <String>['', 'Cardio', 'Strength', 'Yoga']
+              items: <String>['', 'Walking', 'Lunges', 'Yoga']
                   .map<DropdownMenuItem<String>>((String value) {
                 return DropdownMenuItem<String>(
                   value: value,

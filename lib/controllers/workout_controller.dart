@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 
-import '../models/workout.dart'; // Make sure this path matches your project structure
+import '../models/workout.dart';
 
 class WorkoutController with ChangeNotifier {
   List<Workout> _workouts = [];
@@ -18,6 +18,4 @@ class WorkoutController with ChangeNotifier {
     _goal = newGoal;
     notifyListeners();
   }
-
-// Add more methods as needed for your functionality
 }

@@ -23,7 +23,6 @@ class DBService {
           duration INTEGER
         )
       ''');
-      // Add more tables for goals or other data as needed
     });
   }
 
@@ -41,6 +40,4 @@ class DBService {
       return Workout.fromMap(maps[i]);
     });
   }
-
-// Add methods for updating and deleting workouts, and for managing goals
 }
