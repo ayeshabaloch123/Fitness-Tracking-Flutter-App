@@ -26,7 +26,7 @@ The Fitness Tracker App is a mobile application designed to help users track the
 5. **Data Persistence:** Sqflite is used for storing workout data locally on the device, ensuring that user data is saved between app sessions.
 
 ## APP UI
-![Soft Minimalist Download Phone Mockup (2500 x 2500 px) (1)](https://github.com/ayeshabaloch123/Fitness-Tracking-Flutter-App/assets/90467681/0e0aeb0a-9ca4-43bd-b8bf-aab1f42ea7c1)
+![Soft Minimalist Download Phone Mockup (2500 x 2500 px) (1)](https://github.com/ayeshabaloch123/Fitness-Tracking-Flutter-App/assets/90467681/ef49c1d9-c590-48c6-8476-3959e5230431)
 
 ## Getting Started 🚀
 
